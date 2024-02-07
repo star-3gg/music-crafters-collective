@@ -1,5 +1,10 @@
-# MCC — Music Crafters Collective
+![Discord Shield](https://discordapp.com/api/guilds/1203826044872953916/widget.png?style=shield)
 
-## Getting Started
-Join our discord server to get started
-<iframe src="https://discord.com/widget?id=1203826044872953916&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+# MCC — Music Crafters Collective
+<div align=”center”>
+  
+  ![Discord Invite](https://discordapp.com/api/guilds/1203826044872953916/widget.png?style=banner2)
+
+</div>
+
+[Join](https://discord.gg/wNqhvYxw) our vibrant discord community to see our tools & services in action!
